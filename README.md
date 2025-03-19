@@ -8,7 +8,6 @@ When not coding, I'm on stage, bringing laughter as a comedian 🎤. Feel free t
 
 ![TypeScript](https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square)
 ![Java](https://img.shields.io/badge/Kotlin-ED8B00?style=flat-square&logo=kotlin&logoColor=white)
-![WebStorm](https://img.shields.io/badge/IntelliJ-white?logoColor=purple&logo=intellijidea)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 
 ![](https://komarev.com/ghpvc/?username=alarv&color=ff69b4)
