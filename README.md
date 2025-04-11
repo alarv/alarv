@@ -6,9 +6,9 @@ I'm currently working at the National Technical University of Athens (NTUA) as a
 
 When not coding, I'm on stage, bringing laughter as a comedian 🎤. Feel free to [reach out](mailto:alex.arvanitidis0@gmail.com?subject=[GitHub]%20Hello!) and talk about coding, gaming, comedy or plants! 🪴
 
-![TypeScript](https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square)
+![TypeSssscript](https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF&style=flat-square)
 ![Java](https://img.shields.io/badge/Kotlin-ED8B00?style=flat-square&logo=kotlin&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=white)
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=ffdd54)](#)
 
 ![](https://komarev.com/ghpvc/?username=alarv&color=ff69b4)
