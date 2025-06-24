@@ -1,6 +1,6 @@
 ### Hi there 🧠👋
 
-I'm Alex (he/they), a Machine Learning Engineer focused on deploying ML models, building neural networks, and fine-tuning LLMs. I work on real-world systems that are fast, scalable, and actually used.
+I'm Alex (he/they), a Machine Learning Engineer with a strong background in full-stack development. I’ve spent over 10 years building real-world systems—frontend, backend, devops—and now focus on deploying ML models, building neural networks, and fine-tuning LLMs.
 
 Currently at the National Technical University of Athens (NTUA), working on ML infrastructure, LLMs, and deep learning model deployments.
 
